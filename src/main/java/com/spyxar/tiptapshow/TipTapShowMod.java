@@ -21,6 +21,7 @@ import net.minecraft.util.Identifier;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.lwjgl.glfw.GLFW;
+import com.spyxar.tiptapshow.config.ModConfig;
 
 public class TipTapShowMod implements ModInitializer
 {
